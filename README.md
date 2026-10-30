@@ -2,6 +2,19 @@
 
 Lab Activity 9 for 4-334 Full-Stack Web Development. This is the vaccination dashboard of the Barangay Matina Crossing Health Center, rebuilt in Laravel using Blade views, Tailwind CSS v3 (through PostCSS) and Vite. The schedule data comes from a seeded SQLite table.
 
+
+## Agentic Development
+
+Laravel's predictable structure and conventions make it ideal for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to supercharge your AI workflow:
+
+```bash
+composer require laravel/boost --dev
+
+php artisan boost:install
+```
+
+Boost provides your agent 15+ tools and skills that help agents build Laravel applications while following best practices.
+
 ## Login
 
 | | |
