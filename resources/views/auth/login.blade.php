@@ -7,7 +7,7 @@
 
         <div class="bg-emerald-600 text-white px-6 py-5">
             <h1 class="text-2xl font-bold">Bakuna Tracker</h1>
-            <p class="text-emerald-100 text-sm">Purok Palparan · Health Worker Login</p>
+            <p class="text-emerald-100 text-sm">Purok Palparan</p>
         </div>
 
         <form method="POST" action="/login" class="p-6 space-y-4">
